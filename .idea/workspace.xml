@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cfeaca8-670d-4cc4-abd9-38a8fdcf0372" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/factorized_item_based.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factorized_user_based.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorized_item_based_output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/book.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrixFactorization.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrixFactorization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/user.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorized_item_based.py" beforeDir="false" afterPath="$PROJECT_DIR$/factorized_item_based.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +28,21 @@
         <counts>
           <entry key="csv" value="1" />
           <entry key="dummy" value="19" />
-          <entry key="py" value="840" />
+          <entry key="factorized_item_based_output" value="2" />
+          <entry key="py" value="910" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="1" />
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="840" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="910" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="3" />
+          <entry key="factorized_item_based_output" value="1" />
           <entry key="pkl" value="1" />
           <entry key="py" value="14" />
           <entry key="txt" value="1" />
@@ -53,7 +51,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSV" value="3" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="14" />
         </counts>
       </usages-collector>
@@ -73,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utilities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            <state relative-caret-position="94">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -95,16 +93,28 @@
         <entry file="file://$PROJECT_DIR$/multiply_output.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1180">
-              <caret line="456" lean-forward="true" selection-start-line="456" selection-end-line="456" />
+              <caret line="456" selection-start-line="456" selection-end-line="456" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factorized_item_based.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/factorized_item_based.py">
+        <entry file="file://$PROJECT_DIR$/factorized_item_based_output">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            <state relative-caret-position="217">
+              <caret line="455" lean-forward="true" selection-start-line="455" selection-end-line="455" />
             </state>
           </provider>
         </entry>
@@ -144,6 +154,7 @@
         <option value="$PROJECT_DIR$/multiply_output.txt" />
         <option value="$PROJECT_DIR$/factorized_user_based.py" />
         <option value="$PROJECT_DIR$/factorized_item_based.py" />
+        <option value="$PROJECT_DIR$/factorized_item_based_output" />
       </list>
     </option>
   </component>
@@ -194,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrixFactorization">
+  <component name="RunManager" selected="Python.factorized_item_based">
     <configuration name="Q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="factorization" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +219,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\univesity\foqelisans\information retrieval\hw\HW3_98131059\factorization\matrixFactorization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="factorized_item_based" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="factorization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factorized_item_based.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,9 +316,11 @@
       <item itemvalue="Python.utilities" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.matrixFactorization" />
+      <item itemvalue="Python.factorized_item_based" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.factorized_item_based" />
         <item itemvalue="Python.matrixFactorization" />
         <item itemvalue="Python.utilities" />
         <item itemvalue="Python.test" />
@@ -421,20 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiply_output.txt">
+    <entry file="file://$PROJECT_DIR$/factorized_user_based.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
-          <caret line="456" lean-forward="true" selection-start-line="456" selection-end-line="456" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -445,17 +469,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/factorized_user_based.py">
+    <entry file="file://$PROJECT_DIR$/multiply_output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        <state relative-caret-position="1180">
+          <caret line="456" selection-start-line="456" selection-end-line="456" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/factorized_item_based.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        <state relative-caret-position="182">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorized_item_based_output">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="455" lean-forward="true" selection-start-line="455" selection-end-line="455" />
         </state>
       </provider>
     </entry>

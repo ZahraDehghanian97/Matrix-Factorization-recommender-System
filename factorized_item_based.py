@@ -1,5 +1,4 @@
 from math import sqrt
-from numpy import average
 from utilities import test,user_feature, book_feature, utility_matrix
 import numpy as np
 
@@ -19,40 +18,22 @@ def cosine_similarity(person1_dataset, person2_dataset):
     return result
 
 
-# calculates pearson similarity of two given vectors
-def pearson_similarity(person1_dataset, person2_dataset):
-    person1_preferences_sum = average(person1_dataset)
-    person2_preferences_sum = average(person2_dataset)
-    nonzero1 = np.nonzero(person1_dataset)[0]
-    nonzero2 = np.nonzero(person2_dataset)[0]
-    if len(nonzero2) == 0 or len(nonzero1) == 0: return 0
-    person1_square_preferences_sum = sum(
-        [pow((person1_dataset[item] - person1_preferences_sum), 2) for item in nonzero1])
-    person2_square_preferences_sum = sum(
-        [pow((person2_dataset[item] - person2_preferences_sum), 2) for item in nonzero2])
-    product_sum_of_both_users = sum(
-        [(person1_dataset[item] - person1_preferences_sum) * (person2_dataset[item] - person2_preferences_sum) for item
-         in list(set(nonzero2) & set(nonzero1))])
-    similarity = product_sum_of_both_users / sqrt(person2_square_preferences_sum * person1_square_preferences_sum)
-    return similarity
-
-
-def find_average(test_user):
-    item_test_user = np.zeros([number_user])
+def find_average_user(test_user):
+    item_test_user = np.zeros([len(user_feature[0])])
+    sum = 0
     for i in range(number_item):
-        item_test_user += utility_matrix[:,i]*utility_matrix[test_user,i]
-    item_test_user/= sum(utility_matrix[test_user])
+        if utility_matrix[test_user, i] is not None:
+            item_test_user += book_feature[i]*utility_matrix[test_user,i]
+            sum += utility_matrix[test_user,i]
+    item_test_user/= sum
     return item_test_user
 
 
 def most_similar_book(average_book, sim_type):
     scores = []
-    if sim_type == 'pearson':
+    if sim_type == 'cosine':
         for i in range(number_item):
-            scores.append([pearson_similarity(average_book, utility_matrix[:,i]), i])
-    elif sim_type == 'cosine':
-        for i in range(number_item):
-            scores.append([cosine_similarity(average_book,utility_matrix[ i]), i])
+            scores.append([cosine_similarity(average_book,book_feature[i]), i])
     return sorted(scores, key=lambda t: t[0], reverse=True)[1:]
 
 
@@ -62,10 +43,10 @@ def item_based(similarity_type):
         print("\n\nRecommended book for user number = " + str(test_user) + " with " + str(
             similarity_type) + " similarity : ")
         print("------------------------")
-        average_book = find_average(test_user)
+        average_book = find_average_user(test_user)
         score_similarity_book = most_similar_book(average_book, similarity_type)
         counter_book = 0
-        for j in range(0, number_item - 1):
+        for j in range( number_item ):
             if not (score_similarity_book[j][1] in np.nonzero(utility_matrix[test_user])[0]):
                 counter_book += 1
                 print(str(score_similarity_book[j][1]) + " with similarity score = " + str(
@@ -78,8 +59,8 @@ print("load pickle file finished")
 utility_matrix = utility_matrix
 number_user = len(utility_matrix)
 number_item = len(utility_matrix[0])
-print("number user = " + str(number_user - 1))
-print("number item = " + str(number_item - 1))
-similarities = ['cosine', 'pearson']
+print("number user = " + str(number_user ))
+print("number item = " + str(number_item ))
+similarities = ['cosine']
 # for s in similarities: user_based(s)
 for s in similarities: item_based(s)
