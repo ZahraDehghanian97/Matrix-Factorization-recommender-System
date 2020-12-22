@@ -28,7 +28,7 @@ def multiply_based():
         for j in range(0, number_item):
             if not (score_similarity_book[j][1] in np.nonzero(utility_matrix[test_user])[0]):
                 counter_book += 1
-                print(str(score_similarity_book[j][1]) + " with similarity score = " + str(
+                print(str(score_similarity_book[j][1]) + " with score = " + str(
                     score_similarity_book[j][0]))
             if counter_book == 5:
                 break

@@ -65,7 +65,7 @@ def nmf_features(A, k, MAX_ITERS=30):
 
 
 def save_factorized():
-    svd = SVD(learning_rate=0.001, regularization=0.005, n_epochs=100, n_factors=15, min_rating=1, max_rating=5)
+    svd = SVD(learning_rate=0.001, regularization=0.005, n_epochs=10000, n_factors=15, min_rating=1, max_rating=5)
     svd.fit(X=rating)
     print("finish computing factorization")
     saveFileToPickle('user.pkl', svd.pu)

@@ -1,0 +1,456 @@
+C:\Users\zdehg\AppData\Local\Programs\Python\Python37\python.exe "D:/univesity/foqelisans/information retrieval/hw/HW3_98131059/factorization/matrixFactorization.py"
+load pickle file finished
+number user = 53424
+number item = 10000
+
+
+Recommended book for user number = 16329
+------------------------
+6809 with score = 2.289905974173664
+4099 with score = 2.190903553613613
+5850 with score = 2.1698171523518517
+5427 with score = 2.1651067609563297
+8455 with score = 2.1243354831858556
+
+
+Recommended book for user number = 9509
+------------------------
+2301 with score = 2.49070818493425
+4056 with score = 2.4752672691791737
+29 with score = 2.46265407295164
+9055 with score = 2.3889300690022304
+6747 with score = 2.3495863309301703
+
+
+Recommended book for user number = 18089
+------------------------
+1421 with score = 5.209389932691101
+6524 with score = 5.047294003003648
+8577 with score = 4.875164579352408
+5433 with score = 4.782805531570867
+4153 with score = 4.648675728289885
+
+
+Recommended book for user number = 17443
+------------------------
+4518 with score = 0.958519688925723
+1490 with score = 0.8649235301331625
+7213 with score = 0.8498092668068777
+1832 with score = 0.8480060464522325
+3892 with score = 0.8315513304232807
+
+
+Recommended book for user number = 33943
+------------------------
+606 with score = 3.2394147245006093
+4019 with score = 3.126646665962834
+5949 with score = 2.931942032567827
+9361 with score = 2.817737659575794
+441 with score = 2.7961048746109083
+
+
+Recommended book for user number = 51039
+------------------------
+1128 with score = 2.589461391282201
+9515 with score = 2.520560086282938
+2842 with score = 2.3888870933180857
+8940 with score = 2.283964625385694
+5949 with score = 2.1934508387543357
+
+
+Recommended book for user number = 10798
+------------------------
+521 with score = 2.643315445109603
+8511 with score = 2.595502644916902
+9000 with score = 2.516972330410152
+4881 with score = 2.481827931091734
+628 with score = 2.4492691259698227
+
+
+Recommended book for user number = 48085
+------------------------
+1511 with score = 1.313805489071845
+3837 with score = 1.3072153271063203
+4142 with score = 1.3001575993296557
+605 with score = 1.2886026515992506
+7648 with score = 1.2832081488811349
+
+
+Recommended book for user number = 25447
+------------------------
+1656 with score = 0.5495139071323009
+4465 with score = 0.5416002129027607
+6670 with score = 0.4939454532253046
+6923 with score = 0.48122277588716916
+5918 with score = 0.47816376312679515
+
+
+Recommended book for user number = 48777
+------------------------
+463 with score = 1.5790800791453976
+9638 with score = 1.5039231478420234
+9090 with score = 1.4362850709964718
+8504 with score = 1.3719095196266866
+2424 with score = 1.3514765417148384
+
+
+Recommended book for user number = 16659
+------------------------
+681 with score = 1.0043638214433228
+2454 with score = 0.9829550922943745
+6185 with score = 0.9698938243748961
+48 with score = 0.9466060844246765
+3252 with score = 0.9262848396399178
+
+
+Recommended book for user number = 37695
+------------------------
+463 with score = 1.727664469579102
+842 with score = 1.581384436511185
+4012 with score = 1.2485003425781096
+1524 with score = 1.2386659053120903
+1361 with score = 1.172076077004491
+
+
+Recommended book for user number = 7914
+------------------------
+504 with score = 3.679869847810825
+2651 with score = 3.6469397458091555
+2585 with score = 3.382206893461167
+9466 with score = 3.377522652897022
+1797 with score = 3.3511749540545286
+
+
+Recommended book for user number = 32858
+------------------------
+5174 with score = 1.0254607040473962
+7076 with score = 0.931630371991893
+3502 with score = 0.9177110228194879
+2515 with score = 0.9175419692344887
+639 with score = 0.9003871377627569
+
+
+Recommended book for user number = 10233
+------------------------
+5384 with score = 3.8970480145656823
+29 with score = 3.754997426214899
+3068 with score = 3.4448760639424205
+3772 with score = 3.300810783782899
+3796 with score = 3.2521594577568003
+
+
+Recommended book for user number = 52409
+------------------------
+3140 with score = 1.7243783419434946
+8637 with score = 1.698875257543471
+9994 with score = 1.6226145793739535
+2261 with score = 1.592721531679507
+2547 with score = 1.5359218129608123
+
+
+Recommended book for user number = 48835
+------------------------
+286 with score = 1.3124025868697358
+447 with score = 1.2631922381694192
+5562 with score = 1.1999363095227742
+590 with score = 1.176836166513031
+7250 with score = 1.1475170451949903
+
+
+Recommended book for user number = 38881
+------------------------
+4281 with score = 1.663255645382293
+456 with score = 1.5224680987713768
+8440 with score = 1.44051047052405
+5263 with score = 1.4398946276399314
+3242 with score = 1.4300128563276444
+
+
+Recommended book for user number = 3543
+------------------------
+2258 with score = 2.1542398607688686
+7415 with score = 2.1006875360028983
+1641 with score = 2.04134420388061
+288 with score = 1.9845779100640333
+259 with score = 1.8951653242125337
+
+
+Recommended book for user number = 30645
+------------------------
+2057 with score = 2.511320052934365
+259 with score = 2.4995658548733464
+463 with score = 2.4516002166862894
+405 with score = 2.3677655296351205
+4998 with score = 2.2950686712878845
+
+
+Recommended book for user number = 27996
+------------------------
+2282 with score = 1.0907001526107467
+918 with score = 1.068557656880493
+3666 with score = 1.060712657585997
+4332 with score = 1.020886419563699
+190 with score = 1.0175650971262966
+
+
+Recommended book for user number = 22008
+------------------------
+3087 with score = 1.4239446303215324
+5750 with score = 1.3868111932277862
+5459 with score = 1.3710650968266451
+6153 with score = 1.3539075869287784
+1592 with score = 1.2517982369665503
+
+
+Recommended book for user number = 18781
+------------------------
+95 with score = 2.672985303823368
+4537 with score = 2.5874313766093624
+6752 with score = 2.534010706854412
+2714 with score = 2.4399943922631335
+3655 with score = 2.4379723053703275
+
+
+Recommended book for user number = 35100
+------------------------
+447 with score = 1.6521540295297352
+4809 with score = 1.616992743896066
+4601 with score = 1.5768060322552746
+3853 with score = 1.5313865899959167
+7847 with score = 1.4651645133136622
+
+
+Recommended book for user number = 25451
+------------------------
+2346 with score = 1.9399309716720392
+1919 with score = 1.8945540393804592
+1593 with score = 1.8767925605800355
+173 with score = 1.8156411305274116
+5472 with score = 1.727470150025219
+
+
+Recommended book for user number = 4768
+------------------------
+4402 with score = 3.499268572714107
+449 with score = 3.4927031516408142
+6442 with score = 3.4915245440821225
+1854 with score = 3.4312625458547372
+3494 with score = 3.413796225873544
+
+
+Recommended book for user number = 38657
+------------------------
+3897 with score = 1.6066845089035424
+5417 with score = 1.5871141289070325
+822 with score = 1.5817497274109145
+4033 with score = 1.5660790588856544
+9683 with score = 1.5615163704348207
+
+
+Recommended book for user number = 34243
+------------------------
+202 with score = 1.1174546412313733
+9551 with score = 1.0940707047782876
+1593 with score = 1.0587209369139092
+1924 with score = 1.042101239526747
+2 with score = 1.0381639215187377
+
+
+Recommended book for user number = 36079
+------------------------
+6432 with score = 1.9031666746387796
+628 with score = 1.8404113705589658
+1969 with score = 1.7693310837712908
+7994 with score = 1.7238257210366141
+1805 with score = 1.6885943751162389
+
+
+Recommended book for user number = 15154
+------------------------
+4881 with score = 4.175123583408733
+9369 with score = 3.8746256687953466
+425 with score = 3.8676091933928767
+7517 with score = 3.8270776871075847
+8511 with score = 3.82131743608156
+
+
+Recommended book for user number = 30375
+------------------------
+2479 with score = 1.6898920867389509
+6185 with score = 1.505449527027433
+2519 with score = 1.4534224716715554
+3770 with score = 1.4352144775327755
+4502 with score = 1.4125297691375909
+
+
+Recommended book for user number = 3340
+------------------------
+868 with score = 3.140072245715788
+3829 with score = 3.073699891406945
+7450 with score = 2.910668378130218
+752 with score = 2.9019042226290828
+1978 with score = 2.7813296278821773
+
+
+Recommended book for user number = 47957
+------------------------
+4099 with score = 0.7279813704608713
+2 with score = 0.7252928002063753
+3513 with score = 0.7119076053748533
+3087 with score = 0.7096270496310106
+4601 with score = 0.6955280214839301
+
+
+Recommended book for user number = 5094
+------------------------
+8655 with score = 3.4336795486559177
+1024 with score = 3.3512970002186777
+4281 with score = 3.2668886343479624
+1797 with score = 3.2425271286180246
+579 with score = 3.195326181520243
+
+
+Recommended book for user number = 21322
+------------------------
+4153 with score = 3.6286894782703705
+991 with score = 3.6080148095659568
+7020 with score = 3.466554803835653
+9502 with score = 3.3800519818584362
+4195 with score = 3.2873873041288157
+
+
+Recommended book for user number = 14292
+------------------------
+3829 with score = 2.9386569602910675
+8560 with score = 2.8991673020287436
+1978 with score = 2.846639532276919
+8345 with score = 2.7671308191383908
+718 with score = 2.7627878223603615
+
+
+Recommended book for user number = 45801
+------------------------
+5686 with score = 1.4193083786529948
+3280 with score = 1.3636210352391058
+972 with score = 1.34646494942536
+4390 with score = 1.2980676740860724
+5708 with score = 1.2837517406277368
+
+
+Recommended book for user number = 17776
+------------------------
+5758 with score = 1.0769970771683546
+9005 with score = 1.0121955279823893
+3177 with score = 1.0000271635816596
+5722 with score = 0.9753245022437885
+4153 with score = 0.9653816709864719
+
+
+Recommended book for user number = 24791
+------------------------
+5805 with score = 0.9967473527450896
+6195 with score = 0.982472659879002
+3733 with score = 0.8798373241473713
+5215 with score = 0.8592567566057284
+7227 with score = 0.8580189257134634
+
+
+Recommended book for user number = 10791
+------------------------
+7652 with score = 5.792097041831823
+2760 with score = 5.673454589678086
+918 with score = 5.53318503032815
+190 with score = 5.493717376729064
+2441 with score = 5.4825500562293445
+
+
+Recommended book for user number = 8243
+------------------------
+4312 with score = 2.415735808234953
+5448 with score = 2.374111058960873
+1120 with score = 2.298851655956104
+6306 with score = 2.2911683707773616
+9836 with score = 2.289872334740781
+
+
+Recommended book for user number = 30766
+------------------------
+4402 with score = 3.4713504042103884
+1809 with score = 3.400452288353987
+1197 with score = 3.3173444479312626
+1796 with score = 3.256336016326094
+4931 with score = 3.204205745021747
+
+
+Recommended book for user number = 16283
+------------------------
+1337 with score = 1.3391276864259576
+9460 with score = 1.228348451906154
+658 with score = 1.213743232836524
+2651 with score = 1.1121456723982404
+6374 with score = 1.0592231097325975
+
+
+Recommended book for user number = 46740
+------------------------
+5083 with score = 0.869613313624098
+9893 with score = 0.7379090549887607
+447 with score = 0.7376640337252377
+7232 with score = 0.7280690873512187
+2 with score = 0.7186137555818903
+
+
+Recommended book for user number = 12279
+------------------------
+2084 with score = 5.135441515555484
+5477 with score = 5.06804779916324
+8605 with score = 5.036362855799897
+2127 with score = 4.981009501016324
+6628 with score = 4.693124016256874
+
+
+Recommended book for user number = 46766
+------------------------
+3580 with score = 1.9385643958553231
+4453 with score = 1.8765160830828866
+9840 with score = 1.8240666962742293
+6968 with score = 1.8043150563558144
+2331 with score = 1.7998152859693406
+
+
+Recommended book for user number = 4711
+------------------------
+29 with score = 7.181414381972534
+4931 with score = 6.772613013888915
+255 with score = 6.708285625175393
+5815 with score = 6.688471931139786
+1480 with score = 6.547530362153877
+
+
+Recommended book for user number = 41511
+------------------------
+958 with score = 3.804290063808543
+2637 with score = 3.5495630630934216
+1276 with score = 3.4506374556612682
+8070 with score = 3.4267590193029704
+1565 with score = 3.4142579791546206
+
+
+Recommended book for user number = 38226
+------------------------
+3580 with score = 1.6020935623276829
+5347 with score = 1.4665293896717413
+8152 with score = 1.4243108177458208
+3897 with score = 1.4034553679096542
+7001 with score = 1.402212833586171
+
+
+Recommended book for user number = 26379
+------------------------
+4935 with score = 3.1171247920057596
+3705 with score = 3.0394778275303675
+8095 with score = 2.9804885264739127
+6980 with score = 2.8602751367855697
+4518 with score = 2.859445823084725
+
+Process finished with exit code 0
