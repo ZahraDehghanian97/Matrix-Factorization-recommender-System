@@ -1,0 +1,506 @@
+C:\Users\zdehg\AppData\Local\Programs\Python\Python37\python.exe "D:/univesity/foqelisans/information retrieval/hw/HW3_98131059/factorization/factorized_user_based.py"
+load pickle file finished
+number user = 53424
+number item = 10000
+
+
+Recommended book for user number = 16329 with cosine similarity :
+------------------------
+read book : [6444, 7217, 7807, 8321, 8567, 9092]
+3344 with similarity score = 0.4871144519013221
+6537 with similarity score = 0.46137711987982294
+3349 with similarity score = 0.44336045636269156
+571 with similarity score = 0.43566821961969393
+8596 with similarity score = 0.4348573153088443
+
+
+Recommended book for user number = 9509 with cosine similarity :
+------------------------
+read book : [203, 290, 318, 338, 455, 482, 617, 629, 688, 689, 709, 732, 745, 777, 834, 924, 939, 943, 978, 992, 993, 1083, 1099, 1144, 1216, 1256, 1334, 1384, 1457, 1493, 1569, 1825, 1843, 1897, 2021, 2044, 2215, 2240, 2252, 2302, 2482, 2928, 3261, 3950, 4009, 4096, 4237, 7561, 8092, 8613, 8992]
+855 with similarity score = 1.5241153091247457
+641 with similarity score = 1.2955442669914767
+2798 with similarity score = 1.292084602597212
+7731 with similarity score = 1.2832240826571135
+8675 with similarity score = 1.223794872468537
+
+
+Recommended book for user number = 18089 with cosine similarity :
+------------------------
+read book : [4752, 6145, 6493]
+351 with similarity score = 0.32773847010129814
+7024 with similarity score = 0.306056238576468
+231 with similarity score = 0.30240000209222767
+440 with similarity score = 0.28520339171569165
+242 with similarity score = 0.28255184702320313
+
+
+Recommended book for user number = 17443 with cosine similarity :
+------------------------
+read book : [2425, 3287, 3356, 3528, 3618, 4302, 4364, 4932, 4949, 5070, 5394, 5593, 5772, 6866, 7031, 7052, 7331, 8195, 8463, 8513, 9246]
+4207 with similarity score = 2.330670053598364
+6984 with similarity score = 1.819261285220197
+5598 with similarity score = 1.315579514962359
+6393 with similarity score = 1.208000216258935
+9173 with similarity score = 0.682159397502685
+
+
+Recommended book for user number = 33943 with cosine similarity :
+------------------------
+read book : [9523, 9900]
+6795 with similarity score = 0.4078586196212518
+4795 with similarity score = 0.3124942874302768
+234 with similarity score = 0.28157737661916804
+283 with similarity score = 0.28157737661916804
+982 with similarity score = 0.28157737661916804
+
+
+Recommended book for user number = 51039 with cosine similarity :
+------------------------
+read book : [3041, 3203, 3939, 4054, 9993]
+2859 with similarity score = 0.07569831742813915
+277 with similarity score = 0.072878642250547
+2666 with similarity score = 0.07029120989711023
+6774 with similarity score = 0.06341825052586064
+9276 with similarity score = 0.06131107610713879
+
+
+Recommended book for user number = 10798 with cosine similarity :
+------------------------
+read book : [2246, 2305, 2895, 2917, 3307, 3861, 4146, 4538, 5705, 6707, 7752]
+5193 with similarity score = 0.09558258439642582
+6056 with similarity score = 0.08826913102146033
+1148 with similarity score = 0.08705794574090997
+2975 with similarity score = 0.08554865430156161
+7610 with similarity score = 0.08361361184916197
+
+
+Recommended book for user number = 48085 with cosine similarity :
+------------------------
+read book : [1568, 2040, 2331, 2395, 2437, 2580, 2876, 2908, 3015, 3599, 3778, 3993, 4489, 4852, 4896, 4900, 5078, 5219, 5503, 5726, 5868, 6289, 6479, 7201, 7221, 7413, 7875, 8395, 8723, 9306, 9596, 9913]
+6605 with similarity score = 0.1708478298238134
+9137 with similarity score = 0.12798536894504647
+3785 with similarity score = 0.12770978482230852
+6590 with similarity score = 0.12045698758703866
+7254 with similarity score = 0.12045698758703866
+
+
+Recommended book for user number = 25447 with cosine similarity :
+------------------------
+read book : [3479, 7965]
+2369 with similarity score = 0.18408724915009217
+5176 with similarity score = 0.1804506860737458
+4402 with similarity score = 0.17435396006488357
+4813 with similarity score = 0.17202118806542874
+5934 with similarity score = 0.16589722990785996
+
+
+Recommended book for user number = 48777 with cosine similarity :
+------------------------
+read book : [6613, 6782]
+1595 with similarity score = 1.3545265615797963
+6395 with similarity score = 1.1387699933957998
+3743 with similarity score = 1.0640036055915463
+7862 with similarity score = 1.0527699405130377
+5438 with similarity score = 0.9966718036566886
+
+
+Recommended book for user number = 16659 with cosine similarity :
+------------------------
+read book : [8690, 8845, 9472]
+6505 with similarity score = 0.551503470440065
+7629 with similarity score = 0.45473267618733215
+7611 with similarity score = 0.4499396950539983
+7994 with similarity score = 0.44706195875305843
+8669 with similarity score = 0.44645405099893787
+
+
+Recommended book for user number = 37695 with cosine similarity :
+------------------------
+read book : [1100, 1187, 1400, 1474, 1790, 1866, 1911, 2018, 2037, 2048, 2137, 2207, 2367, 2449, 2535, 2888, 3018, 3135, 3167, 3190, 3449, 3470, 3722, 4056, 4128, 4265, 4696, 4825, 5103, 5157, 5667, 7133, 7545, 8895]
+3230 with similarity score = 0.2427891735662861
+5189 with similarity score = 0.22705657754725841
+3802 with similarity score = 0.21537421470212348
+7198 with similarity score = 0.21296702326911532
+7592 with similarity score = 0.2109598968587481
+
+
+Recommended book for user number = 7914 with cosine similarity :
+------------------------
+read book : [8083, 8160, 8623]
+4337 with similarity score = 0.2580788871546927
+3580 with similarity score = 0.2256506668542394
+2888 with similarity score = 0.20693017785328924
+5578 with similarity score = 0.20693017785328924
+7974 with similarity score = 0.20649924220954324
+
+
+Recommended book for user number = 32858 with cosine similarity :
+------------------------
+read book : [2238, 2457, 2717, 2949, 3153, 3285, 3525, 3710, 3909, 4006, 4328, 4611, 4903, 4910, 5375, 5393, 5572, 5886, 6020, 6023, 6035, 6162, 6540, 6741, 6752, 7058, 7167, 7672, 7736, 7993, 8041, 8614, 9217, 9364, 9729]
+8573 with similarity score = 0.24107032938130946
+8182 with similarity score = 0.2217109747800795
+7815 with similarity score = 0.21522271791537628
+1612 with similarity score = 0.21067179272625675
+7878 with similarity score = 0.20732970027118278
+
+
+Recommended book for user number = 10233 with cosine similarity :
+------------------------
+read book : [4325, 4978, 5509, 6017, 6508, 6512, 6920, 7635, 7855, 8640, 8868, 9389, 9566, 9737]
+7863 with similarity score = 0.5032917953482132
+7712 with similarity score = 0.452427824308301
+3366 with similarity score = 0.4494801843068912
+8087 with similarity score = 0.44171555048443367
+2177 with similarity score = 0.4342598675960106
+
+
+Recommended book for user number = 52409 with cosine similarity :
+------------------------
+read book : [850, 910, 914, 917, 974, 1000, 1128, 1160, 1191, 1358, 1403, 1427, 1448, 1484, 1491, 1519, 1600, 1736, 1800, 1816, 1881, 1914, 2084, 2156, 2196, 2245, 2334, 2393, 2471, 2491, 2536, 2673, 2859, 3414, 3440, 3489, 3817, 4321, 4779, 4885, 5562, 5777, 5843, 6165, 6924, 7469, 7551, 7584, 8029, 8672, 9313]
+8978 with similarity score = 0.6241796106130046
+9663 with similarity score = 0.5435637622564411
+5206 with similarity score = 0.4181122847950475
+7471 with similarity score = 0.4181122847950475
+5929 with similarity score = 0.4134924372803561
+
+
+Recommended book for user number = 48835 with cosine similarity :
+------------------------
+read book : [5824, 6560, 6897, 7235, 7413, 8684, 9703]
+8013 with similarity score = 0.45591933170615834
+4015 with similarity score = 0.43194961192700465
+9540 with similarity score = 0.42104042235647254
+4085 with similarity score = 0.4108411768444005
+5195 with similarity score = 0.4108411768444005
+
+
+Recommended book for user number = 38881 with cosine similarity :
+------------------------
+read book : [1973, 4161, 4399, 5256]
+4273 with similarity score = 0.5755972373183798
+2366 with similarity score = 0.5358394506788849
+3022 with similarity score = 0.5356312241911733
+7992 with similarity score = 0.4388191617032655
+7188 with similarity score = 0.43426855738829917
+
+
+Recommended book for user number = 3543 with cosine similarity :
+------------------------
+read book : [2766, 2818, 4097, 4323, 4326, 4444, 4770, 5294, 5476, 5700, 6082, 6104, 6335, 6917, 7710, 7771, 7948, 9022, 9178, 9240, 9961]
+6803 with similarity score = 0.8878937711107411
+3591 with similarity score = 0.8509420486795747
+5224 with similarity score = 0.8388259510390559
+356 with similarity score = 0.7245253743207198
+5718 with similarity score = 0.7068057457307235
+
+
+Recommended book for user number = 30645 with cosine similarity :
+------------------------
+read book : [5997, 6718, 6977, 7973, 8330, 8536, 8584, 8597, 9328, 9370]
+2205 with similarity score = 1.288682364740577
+2181 with similarity score = 1.1934953015381082
+4850 with similarity score = 1.1281642034337245
+9124 with similarity score = 1.097986166178429
+9458 with similarity score = 1.0963106690648057
+
+
+Recommended book for user number = 27996 with cosine similarity :
+------------------------
+read book : [2139, 4623, 4725, 5623, 6785, 6985, 9792, 9837]
+9215 with similarity score = 0.651720850770348
+9587 with similarity score = 0.5129201420756344
+9796 with similarity score = 0.5009844706292744
+444 with similarity score = 0.4733970529269514
+549 with similarity score = 0.4733970529269514
+
+
+Recommended book for user number = 22008 with cosine similarity :
+------------------------
+read book : [4411, 7547, 8736]
+1004 with similarity score = 0.15159432676964552
+2104 with similarity score = 0.15159432676964552
+2558 with similarity score = 0.15100029306288482
+4407 with similarity score = 0.12909959766515708
+2265 with similarity score = 0.12614288372526483
+
+
+Recommended book for user number = 18781 with cosine similarity :
+------------------------
+read book : [1988, 2507, 2784, 3058, 3285, 3307, 3920, 4216, 4268, 4428, 4682, 4837, 5018, 5026, 5155, 5462, 5705, 5945, 6038, 6439, 6992, 7223, 7498, 7841, 8318, 9119, 9484]
+6697 with similarity score = 0.2366893244589588
+7283 with similarity score = 0.23488067469903745
+9626 with similarity score = 0.21652540193075442
+3672 with similarity score = 0.20970983922167608
+8880 with similarity score = 0.2007248865373031
+
+
+Recommended book for user number = 35100 with cosine similarity :
+------------------------
+read book : [4205, 9633]
+7897 with similarity score = 0.4314594899825326
+7251 with similarity score = 0.27648980352953484
+2448 with similarity score = 0.27582400844226673
+765 with similarity score = 0.2749797501856678
+5420 with similarity score = 0.27151019836374085
+
+
+Recommended book for user number = 25451 with cosine similarity :
+------------------------
+read book : [4501, 4518, 5487, 8543, 8714, 9865, 9867]
+3836 with similarity score = 0.132796341312918
+5307 with similarity score = 0.13020020717517547
+7978 with similarity score = 0.12885118422495756
+9421 with similarity score = 0.12885118422495756
+9585 with similarity score = 0.12885118422495756
+
+
+Recommended book for user number = 4768 with cosine similarity :
+------------------------
+read book : [5267, 5375, 5899, 6800, 6874, 7301, 7488, 7983, 8125, 8702, 9593]
+7993 with similarity score = 0.2950652758348517
+1867 with similarity score = 0.2376435329949923
+1582 with similarity score = 0.2293861872328159
+5846 with similarity score = 0.21490266174287942
+124 with similarity score = 0.21263934576523236
+
+
+Recommended book for user number = 38657 with cosine similarity :
+------------------------
+read book : [2191, 3586, 3708, 4729, 4744, 5189, 7651, 8532, 9754]
+9020 with similarity score = 0.20361241930591398
+4908 with similarity score = 0.19421536639408066
+8861 with similarity score = 0.18093658856108213
+6161 with similarity score = 0.1756988132740031
+5658 with similarity score = 0.1742929029300771
+
+
+Recommended book for user number = 34243 with cosine similarity :
+------------------------
+read book : [8548, 9891]
+5842 with similarity score = 0.46346642838833346
+4299 with similarity score = 0.38790146522139557
+6423 with similarity score = 0.38790146522139557
+2667 with similarity score = 0.35329971614344546
+4150 with similarity score = 0.3495036555473203
+
+
+Recommended book for user number = 36079 with cosine similarity :
+------------------------
+read book : [1134, 1157, 1209, 1507, 1684, 1865, 1981, 2208, 2310, 2318, 2548, 2566, 2635, 2660, 2694, 2928, 3149, 3821, 3930, 4157, 4262, 4485, 4501, 4518, 4684, 4695, 5102, 5453, 5487, 6240, 6398, 6426, 6609, 7686, 7990, 8472, 8513, 8865, 8934, 9497, 9865]
+3152 with similarity score = 0.7846786765621989
+7381 with similarity score = 0.7827762467761366
+7061 with similarity score = 0.7782823498199876
+2666 with similarity score = 0.7670390858853635
+9233 with similarity score = 0.7649902054889628
+
+
+Recommended book for user number = 15154 with cosine similarity :
+------------------------
+read book : [9356, 9846, 9993]
+8211 with similarity score = 0.21659547649324873
+1146 with similarity score = 0.20344877657114824
+5283 with similarity score = 0.18473151396951046
+2530 with similarity score = 0.15673952142271153
+6949 with similarity score = 0.15594959980826628
+
+
+Recommended book for user number = 30375 with cosine similarity :
+------------------------
+read book : [1453, 2305, 2840, 2980, 3208, 3228, 3267, 3919, 5020, 5476, 5709, 5900, 5913, 5939, 7350, 7421, 8065, 8685, 9471, 9569, 9867]
+8312 with similarity score = 0.1391868162351378
+3852 with similarity score = 0.10181191489855558
+4817 with similarity score = 0.10181191489855558
+6935 with similarity score = 0.09758020909942679
+1860 with similarity score = 0.0855936110758925
+
+
+Recommended book for user number = 3340 with cosine similarity :
+------------------------
+read book : [7025, 8689]
+3727 with similarity score = 0.2736363569154398
+1495 with similarity score = 0.2524075078252381
+7479 with similarity score = 0.23320434808768903
+4264 with similarity score = 0.22477035087716485
+2123 with similarity score = 0.22348121058593393
+
+
+Recommended book for user number = 47957 with cosine similarity :
+------------------------
+read book : [6246, 6407, 6554, 6640, 6797, 6845, 7056, 7551, 8087]
+4493 with similarity score = 0.17081009483898105
+2565 with similarity score = 0.163676961713958
+4184 with similarity score = 0.15188451789600954
+7066 with similarity score = 0.14889240217660565
+8023 with similarity score = 0.14002914436124791
+
+
+Recommended book for user number = 5094 with cosine similarity :
+------------------------
+read book : [3048, 3481, 5031, 7211, 7579, 7716, 8065, 8105, 8124, 8193, 8489, 8676, 8722, 9516]
+3972 with similarity score = 0.38239692097664324
+9231 with similarity score = 0.29571410031291395
+521 with similarity score = 0.29004234186318717
+4717 with similarity score = 0.28927090330353944
+84 with similarity score = 0.2818389696542202
+
+
+Recommended book for user number = 21322 with cosine similarity :
+------------------------
+read book : [7684, 9430, 9801]
+8137 with similarity score = 1.4561030930714534
+7510 with similarity score = 1.279089757544435
+5041 with similarity score = 1.1946914190432358
+4240 with similarity score = 1.0984501966516274
+6512 with similarity score = 1.0984501966516274
+
+
+Recommended book for user number = 14292 with cosine similarity :
+------------------------
+read book : [8023, 8362, 8788, 9178, 9862]
+9616 with similarity score = 0.28413605912886264
+8137 with similarity score = 0.27278899263737416
+6271 with similarity score = 0.24202054034261689
+6751 with similarity score = 0.24012784902132667
+995 with similarity score = 0.2317208676508048
+
+
+Recommended book for user number = 45801 with cosine similarity :
+------------------------
+read book : [2511, 3800, 3855, 4023, 4224, 4241, 4324, 4365, 5021, 5131, 5137, 5252, 5594, 5646, 5677, 5746, 5862, 5866, 6023, 6029, 6067, 6208, 6313, 6372, 6412, 6476, 6494, 6542, 6641, 6739, 6836, 6941, 6960, 6979, 7005, 7084, 7159, 7203, 7321, 7322, 7413, 7434, 7445, 7492, 7571, 7624, 7679, 7682, 7736, 7761, 7877, 8058, 8110, 8494, 8518, 8883, 8918, 8966, 9132, 9159, 9160, 9558, 9869]
+9119 with similarity score = 0.18467233643795014
+8725 with similarity score = 0.16824590054788885
+1264 with similarity score = 0.16281932023206055
+535 with similarity score = 0.15895651141666073
+3758 with similarity score = 0.15753599564967338
+
+
+Recommended book for user number = 17776 with cosine similarity :
+------------------------
+read book : [3631, 3894, 5514, 5941, 6457, 6686, 6854, 6963, 7122, 7302, 7352, 7738, 9076, 9629]
+9372 with similarity score = 0.21624994359926197
+7648 with similarity score = 0.2020937672364978
+8747 with similarity score = 0.19571406614893727
+6881 with similarity score = 0.162335262263613
+2157 with similarity score = 0.15116623987457867
+
+
+Recommended book for user number = 24791 with cosine similarity :
+------------------------
+read book : [403, 493, 513, 594, 611, 663, 699, 790, 846, 929, 977, 1041, 1088, 1106, 1156, 1210, 1303, 1521, 1571, 1695, 1701, 1967, 2125, 2158, 2199, 2240, 2302, 2336, 2366, 2781, 2794, 2860, 3019, 3022, 3056, 3061, 3085, 3120, 3234, 3390, 3548, 3595, 3642, 3795, 3853, 3907, 4270, 4273, 4582, 4653, 4695, 4727, 4999, 5051, 5175, 5283, 5301, 5389, 5500, 5604, 5988, 6575, 6998, 7070, 7562, 8276, 8504, 9280]
+514 with similarity score = 0.43530002749459196
+6509 with similarity score = 0.3580356094974441
+8258 with similarity score = 0.3366979469736633
+8570 with similarity score = 0.33003777349024566
+5213 with similarity score = 0.3140766838541508
+
+
+Recommended book for user number = 10791 with cosine similarity :
+------------------------
+read book : [6052, 6717]
+6980 with similarity score = 0.21471675641765994
+7716 with similarity score = 0.20401696968091504
+304 with similarity score = 0.20137352057620522
+2348 with similarity score = 0.16256333357057168
+550 with similarity score = 0.15990456294406513
+
+
+Recommended book for user number = 8243 with cosine similarity :
+------------------------
+read book : [5041, 5382, 5665, 5858, 5861, 6078, 6087, 6211, 6212, 6512, 6684, 6736, 7208, 7619, 7635, 7644, 7681, 7748, 7855, 7991, 8357, 8640, 8647, 8868, 9116]
+7897 with similarity score = 0.1524421244963845
+2845 with similarity score = 0.15033924509510319
+8595 with similarity score = 0.14340221834715577
+3116 with similarity score = 0.12729769044571043
+5660 with similarity score = 0.12729769044571043
+
+
+Recommended book for user number = 30766 with cosine similarity :
+------------------------
+read book : [5532, 5552, 5959]
+8842 with similarity score = 0.4612805305721866
+3635 with similarity score = 0.4431401736933576
+6579 with similarity score = 0.4013224414480808
+7329 with similarity score = 0.3677782156514603
+4148 with similarity score = 0.36198217817440054
+
+
+Recommended book for user number = 16283 with cosine similarity :
+------------------------
+read book : [2797, 8375, 9973]
+8684 with similarity score = 0.30996776058877057
+9842 with similarity score = 0.28768388977776727
+2672 with similarity score = 0.2854863676223946
+4222 with similarity score = 0.27982685988158523
+7935 with similarity score = 0.27610072476097314
+
+
+Recommended book for user number = 46740 with cosine similarity :
+------------------------
+read book : [4072, 5153, 5689, 6115, 6522, 8192, 8219, 8253, 8555, 9050, 9285, 9664, 9955]
+1471 with similarity score = 0.19466238735068964
+4961 with similarity score = 0.18523204159328557
+1896 with similarity score = 0.17624903591126068
+2932 with similarity score = 0.1726020063510667
+2311 with similarity score = 0.16000549161467834
+
+
+Recommended book for user number = 12279 with cosine similarity :
+------------------------
+read book : [532, 564, 735, 1318, 1444, 1623, 1704, 1847, 1960, 2111, 2122, 2129, 2344, 2504, 2620, 2921, 3208, 3381, 3837, 3937, 4421, 4960, 5188, 5679, 5980, 6018, 6438, 6535, 7270, 7592, 7923, 8724, 8920]
+3292 with similarity score = 0.16040408029684178
+521 with similarity score = 0.15204236467020552
+8489 with similarity score = 0.14934970971813216
+7579 with similarity score = 0.1400021834740279
+2419 with similarity score = 0.12898510241849964
+
+
+Recommended book for user number = 46766 with cosine similarity :
+------------------------
+read book : [750, 842, 1122, 1140, 1170, 1227, 1251, 1276, 1353, 1437, 1505, 1541, 1608, 1616, 1651, 1652, 1716, 1738, 1799, 1917, 1952, 2008, 2201, 2254, 2267, 2282, 2294, 2345, 2369, 2377, 2420, 2428, 2457, 2463, 2472, 2488, 2626, 2687, 2697, 2714, 2733, 2734, 2785, 2799, 2816, 2868, 2974, 3075, 3185, 3347, 3607, 3665, 3781, 3816, 3852, 3854, 3864, 3991, 4170, 4226, 4355, 4659, 5151, 5502, 5544, 6136, 6629, 6651, 7387, 7657, 8183, 8231, 8270, 9050, 9130]
+2405 with similarity score = 0.29642101185045994
+9999 with similarity score = 0.2691347197631454
+3131 with similarity score = 0.24611527625666027
+8397 with similarity score = 0.21560703401779155
+907 with similarity score = 0.2151223634212592
+
+
+Recommended book for user number = 4711 with cosine similarity :
+------------------------
+read book : [1948, 2551, 2948, 3102, 3312, 4005, 4513, 4714, 4924, 5220, 5226, 5242, 5355, 5726, 6566, 6636, 7093, 7414, 7454, 7749, 8016, 8036, 8405, 8479, 9012, 9096, 9171, 9267, 9516]
+4709 with similarity score = 0.14857806992564077
+6778 with similarity score = 0.1404711382792328
+6656 with similarity score = 0.13202258314316573
+1131 with similarity score = 0.13056176517757428
+6039 with similarity score = 0.1267687046653749
+
+
+Recommended book for user number = 41511 with cosine similarity :
+------------------------
+read book : [1935]
+1781 with similarity score = 0.45812708129489627
+4173 with similarity score = 0.41557402004685606
+4874 with similarity score = 0.4146381022901041
+5993 with similarity score = 0.4146381022901041
+2220 with similarity score = 0.3942721043911619
+
+
+Recommended book for user number = 38226 with cosine similarity :
+------------------------
+read book : [6522, 7373, 8270, 8487, 8958]
+4696 with similarity score = 0.25782879294638117
+5103 with similarity score = 0.24477233066745496
+8323 with similarity score = 0.23741573252890186
+2803 with similarity score = 0.22020789506419797
+5269 with similarity score = 0.21431603294015253
+
+
+Recommended book for user number = 26379 with cosine similarity :
+------------------------
+read book : [1129, 7862, 9055, 9821]
+2487 with similarity score = 0.30355871955095703
+3858 with similarity score = 0.2915492435438393
+1964 with similarity score = 0.2762146995831251
+4925 with similarity score = 0.2696011779170838
+6578 with similarity score = 0.24955251645057025
+
+Process finished with exit code 0

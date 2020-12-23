@@ -25,6 +25,7 @@ def createMatrix(dataset):
     number_user = max(dataset[:, 1])
     number_item = max(dataset[:, 0])
     utility_matrix = np.empty([number_user, number_item])
+    utility_matrix.fill(None)
     for row in range(0, np.shape(dataset)[0]):
         utility_matrix[dataset[row][1] - 1, dataset[row][0] - 1] = dataset[row][2]
     return utility_matrix
@@ -71,7 +72,7 @@ def save_factorized():
     saveFileToPickle('user.pkl', svd.pu)
     saveFileToPickle('book.pkl', svd.qi)
 
-
+# save_matrix()
 # save_factorized()
 user_feature = loadFileFromPickle('user.pkl')
 book_feature = loadFileFromPickle('book.pkl')
